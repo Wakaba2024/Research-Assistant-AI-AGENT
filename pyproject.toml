@@ -1,0 +1,21 @@
+[project]
+name = "research-assistant"
+version = "0.1.0"
+description = "These are the needed Libraries"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=0.3.27",
+    "langchain-anthropic>=0.3.20",
+    "langchain-community>=0.3.29",
+    "langchain-openai>=0.3.33",
+    "mistral>=20.1.0",
+    "pandas>=2.3.2",
+    "pydantic>=2.11.9",
+    "python-dotenv>=1.1.1",
+    "streamlit>=1.49.1",
+    "wikipedia>=1.4.0",
+    "duckduckgo-search>=8.1.1",
+    "ddgs>=9.6.0",
+
+]

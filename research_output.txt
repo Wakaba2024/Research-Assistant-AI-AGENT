@@ -1,0 +1,15 @@
+--- Research Output ---
+Timestamp: 2025-m-22 20:25:30
+
+{
+  "topic": "American Football League and How It Is Played",
+  "summary": "The American Football League (AFL) was a major professional football league that operated from 1960 to 1969. It was a rival to the National Football League (NFL) before the two leagues merged in 1970. The merger conditions included a common draft and a championship game, which eventually became known as the Super Bowl. The AFL and NFL continued to operate as separate leagues until 1970, with separate regular season and playoff schedules except for the championship game.\n\nAmerican football is played by two teams of 11 players each on a 120-yard field. The objective is to score points by advancing the ball into the opponent's end zone or kicking it through the goalposts. The game begins with a kickoff, and teams have four attempts, called downs, to gain 10 yards. If they succeed, they earn a new set of four downs. If they fail, the opposing team takes possession of the ball. The NFL, consisting of 32 teams, is the premier American football league, culminating its season with the Super Bowl.\n\nThe first American football game was played on November 6, 1869, between Rutgers and Princeton, two college teams. Since then, the sport has evolved into a highly structured and popular game, with professional leagues like the NFL and AFL shaping its modern form.",
+  "sources": [
+    "https://en.wikipedia.org/wiki/American_Football_League",
+    "https://www.nfl.com/",
+    "https://operations.nfl.com/the-rules/nfl-video-rulebook/",
+    "https://www.britannica.com/sports/American-football"
+  ],
+  "tools_used": ["Wikipedia", "Web Search"]
+}
+
